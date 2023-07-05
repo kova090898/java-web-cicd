@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Vellore</h2>
-			<h3>Designed @ By Shalini</h3>
+			<h2>Welcome To Greens technologies chennai</h2>
+			<h3>Designed @ By kovarthanan </h3>
 		</div>	
 	</div>
 
