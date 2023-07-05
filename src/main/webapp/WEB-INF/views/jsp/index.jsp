@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Chennai.</h2>
-			<h3>Contact @ By Kovarthanan</h3>
+			<h2>Welcome To Vellore</h2>
+			<h3>Designed @ By Shalini</h3>
 		</div>	
 	</div>
 
